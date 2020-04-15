@@ -1,2 +1,12 @@
 server:
   port: 16801
+
+
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/learn?characterEncoding=utf-8
+    username: learn
+    password: learn123
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    show-sql: true

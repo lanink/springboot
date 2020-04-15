@@ -1,0 +1,96 @@
+                                             .   .::::::::.
+                                            iK#################D.
+                                       .  K#######################j
+                                      ..j#####t,;;;tfGKW########W###;
+                                    ..:DK######L::::::::::tGK########K:
+                                     jf#########E::::,::::::iW#########:
+                                    D#############:,::::,:E##############:.
+                                  .fD#W###L,f#####t:::,::L################i
+                                 .:K#####K:::f####K:::,:,#######WfK#######W.
+                                  D#####W::::.#####:,,,,,######L,::########K.
+                                .K:####i.::::::K##W::::::E###G::,:::f#####WW#.
+                                 j,j#Ki::iDEED;:K#i::::::.jj,:,iGEEj,D####:K##
+                                 :::::,LG,:,::tD,.:::::,:::::Gt:::::LLW##L,:K#D
+                 f;              :::,,K;:,:::::;D,::::::::,;E;:::::::;E;::.:j##  .
+                .,,;  :t        ;:::,;::,::::::::f::::::::G;,::::::::,:E.::,,##E.
+                 t,G  EG        f:::G,;::::::::;:,t:::::::j::::::::::::.E::::W##:
+             j   G,,f.;D        D::,;:,:,::;ii::::K,,:,:,;,::,;,,:::::::;i:::L##E
+            K:tK;E,,LD,f        E::E::::,iW####Ki:j::::,:E:tW####D:::::,:K:::;###
+            .j.::,,,;:,;        D::E,::E#########W:::::,:,#W#######;::::::D:::###D
+             iL::,,:L,:         E,::,:f###########i:::::;#########WW,:,:::f:::####
+           . .iG::::::i    .  jL,,:::i######f:E###E:::::L####ED#####f:::::::::K###;
+           fDfft:::::,L  .  .f::,:::,W####K.   K###,::,:####;  ,#####:::::::::G###D
+           E:,,,:,::::K    :t,,.:,:::#####:    ;###;::,;###D    E####:::::::::j###EDi
+              fK;:::,,:,L D::::::::::#####     KWW#t,::D###;    K####i:::::::,i#j:,,:L
+             .;L:,,.::,::D,.:::::::::#####; . j####,:::K###E   i####W;::::::,:;G::::::D
+             ,j..:;GL::,:,:,,::::::::######WKW#W###::::G####WW#######,,::::::,t.::::::,
+             E,LE:..,::.G:,::::::::::D##########W#j:::,;############D:::::::::j::::::,:t
+                    G::t;:::::::::::::f##########D::::::i##########E:::::::::,:::::::::f
+                    G,,D:::::::::::::,:,W#######D::::::,:,########D:,:::::::::::::::::,:i
+                    .:,;:::::::::::::::,:,fLGDt,,::::::::,::,jLt;:.::,::::::::::::::::,:D
+                     ,t,,:::::::::::::,,:::,:::,:::::::::::,::::,.,::::::::::::::::::::.E
+                     KE:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::,:i
+                     iD:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::,:t
+                      E:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::D
+                      K::::::::::::::::::::::::::::::::::::::::::::::::,::::::,::::::::,L
+                      i::::::::::::::::::::::::::::::::::::::::::::::::::,:,LDG,::,:::,f
+                       i:::::::::::::::::::::::::::::::::::::::::::::::.,fEf.  LEi:::,i,
+                       G,::::::::::::::::::::::::::::::::::::::::::::::EW;  j;ifi.,jji
+                       f;::,:::::::::::::::::::::::::::::::::::::,::fWWDGGDDDGDDDG
+                        E::,,::::::::::::::::::::::::::::::::::,,:;LEGGGDGGGGDGGGK
+                         L::::::::::::::::::::::::::::::::::::iLKDDGGGGGDDGGDGDGGE
+                         WL::::::::::::::::,::::,:,:::::::::iDGGGGGGGGGGGGGGGGGGDG
+                        .DKG::,:::::::::,::::::::,,::::,::GEDDGGGGGGGGGGGGGGGGGDGD;
+                       . DDDE,,::::::::::::::::::,:,::fKKEDDGGGGGGGGGGGGGGGGGGGDGDK
+                        jGGGDDEE;::::::,:,::::::,GKEDGGGGDGDDDGGGGGGGGGGGGGGGGGDGGG
+                        ,GDGDGGGGWEj;,::::,,iGKEEDGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG.
+                         ;EDDGGGGGDGDEKEEEEDDGGGGDGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGL
+                           EDGGGGDDGDGDGGDGGDDGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGDK.
+                             EGGGDDDGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGDGGGGGGGGGGGGGGE
+                              tKGDEDGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGDGGGGGGGGGGGGGGD.
+                               .jDEGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGDGGGGGGGGGGGGDDG
+                               ..GDDGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGDGEGGGGGGGGGGGDDDW.
+                                 KGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGDGEGDDGGDDGGGEK,.
+                                 EGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGDGEDGGGDDGDWf;:.
+                                 GDGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGDGEGGGDKWL,:,:;
+                                .DGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGEGEKKi::::::j
+                                LDDGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGDGGGE::::::L
+                                KDDGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGDGDDGGK:,::::E
+                                KDGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGD,:::::E
+                                EGDGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGE,,,:::f
+                               .DGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGEE::::t,
+                               LGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGE E::,W
+                               KGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGD.i::;j
+                               WGGGGGGGGDDDDGDGGGGGDDGGDGGGGGGGGGGDGGDGGGGGW,j::G.
+                               WGGGGGGGGGDDDGGGGGGGGGDGGGGDGGGGGGGDGGGGGDGD.,t,:i.
+                               LGGGGGGGGDDEGEGGGGGGDGEGDEDGGGGGGDDKttitGEW#,::::,K
+                               :DDGGDDDKj: : fDGGDKD:...:DGDGDGED,........tt:,:::E
+                                WfGDDt:...  . :tf,.. ..   LWKWt.... .......W,:::L,
+                                f... ...  ...  .. . .  ... ...   .... . ...G,::tK
+                               ,:................. . ........... ..    .....E .  .
+                               j. ................... .  .. .........   ....K
+                               K. ..............................       . ...K
+                               W....... ............  ... .........     ....W
+                               G.................. . j   ........... ..  . .K
+                               j..................... ;:....................K
+                               ;.................... .E ................... E
+                              ::.................. .. W.................... K
+                              :i. ..  .....:. :. ...:;ji:,iti:.,LLf,:;,:..:jK
+                               .    .G,,;;::,,                #.:,::::t
+                                     G::,,:,,;.               f;,::::,j
+                                     j::::::,i                 E::::::L
+                                     ,:::::,:L                 W::::::G
+                                      t::::,:E                 i,:::::K
+                                      L::::::D                 .i:::::W
+                                      ;::,:,.K                  EtiitLW
+                                       t.::iKW                  E,;,:.W
+                                      .D., . K                  K     W
+                                       D     K                  f:    W
+                                      G,;    D                  .D    #j
+                                      f:K .  G                   W.  Lt#
+                                     L,.,ifKjK                 .K:,jLt,Wi.
+                                    ;f.,::,,:i.                E,:::,::,;GWt
+                                 ;DE;:::::::,:L  .            :f::::::,,,::iKD
+                               .W,,,,:::;jEKKW:               .KDKW#WWWDt,:::W
+                               G:::,;GKt,                      .        ,jD#D.
+                                 :.

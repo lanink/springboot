@@ -1,0 +1,13 @@
+server:
+  port: 16808
+
+
+logging:
+  pattern:
+    console: '%d{yyyy/MM/dd HH:mm:ss}[%yellow(%thread)-%clr(%5p)]%green(%logger):%msg%n'
+    file: '%d{yyyy/MM/dd-HH:mm} [%thread-%5p] %-3L @ %logger: %msg%n'
+  file:
+    name: runtime.log
+    path: logs/runtime.log
+  level:
+    root: info

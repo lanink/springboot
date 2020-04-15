@@ -1,2 +1,14 @@
 server:
   port: 16802
+
+
+custom:
+  conf:
+    name: 孙悟空
+    alias:
+      - 齐天大圣
+      - 美猴王
+    last-name: 孙
+
+pig:
+  name: 猪八戒

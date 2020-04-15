@@ -22,6 +22,7 @@
         <module>jpa</module>
         <module>conf</module>
         <module>safe</module>
+        <module>log</module>
         <!--<module>live</module>-->
     </modules>
 

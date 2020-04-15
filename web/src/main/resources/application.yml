@@ -1,2 +1,5 @@
 server:
   port: 16800
+  servlet:
+    context-path: /v1
+
